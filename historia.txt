@@ -5,3 +5,5 @@ Aprendiendo git y github en Platzi
 Esta es una nueva linea en la historia
 
 Sera el mejor archivo del mundo
+
+Mañana nos enfocaremos en otro archivo
