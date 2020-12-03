@@ -10,5 +10,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por mi <JavrezT>
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acà NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://platzi.com/git "a ver el curso").
